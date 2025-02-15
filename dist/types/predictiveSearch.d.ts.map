@@ -1,0 +1,1 @@
+{"version":3,"file":"predictiveSearch.d.ts","sourceRoot":"","sources":["../../src/types/predictiveSearch.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,0BAA0B,EAAE,MAAM,6BAA6B,CAAC;AAEzE,MAAM,WAAW,iBAAiB;IAChC,SAAS,EAAE,OAAO,CAAC;IACnB,SAAS,EAAE,0BAA0B,CAAC;IACtC,KAAK,EAAE,MAAM,CAAC;IACd,KAAK,EAAE,MAAM,EAAE,CAAC;CACjB"}

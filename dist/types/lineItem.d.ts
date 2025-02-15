@@ -1,0 +1,48 @@
+import { IDiscountAllocation } from "./discountAllocation";
+import { IFulfillment } from "./fulfillment";
+import { IImage } from "./image";
+import { IProduct } from "./product";
+import { ISellingPlanAllocation } from "./sellingPlanAllocation";
+import { ISortOption } from "./sortOption";
+import { ITaxLine } from "./taxLine";
+import { IUnitPriceMeasurement } from "./unitPriceMeasurement";
+import { IVariant } from "./variant";
+export interface ILineItem {
+    discount_allocations: IDiscountAllocation[];
+    error_message: string;
+    final_line_price: number;
+    final_price: number;
+    fulfillment: IFulfillment;
+    fulfillment_service: string;
+    gift_card: boolean;
+    grams: number;
+    id: number;
+    image: IImage;
+    item_components: ILineItem[];
+    key: string;
+    line_level_discount_allocations: IDiscountAllocation[];
+    line_level_total_discount: number;
+    message: string;
+    options_with_values: ISortOption[];
+    original_line_price: number;
+    original_price: number;
+    product: IProduct;
+    product_id: number;
+    properties: any;
+    quantity: number;
+    requires_shipping: boolean;
+    selling_plan_allocation: ISellingPlanAllocation;
+    sku: string;
+    successfully_fulfilled_quantity: number;
+    tax_lines: ITaxLine[];
+    taxable: boolean;
+    title: string;
+    unit_price: number;
+    unit_price_measurement: IUnitPriceMeasurement;
+    url: string;
+    url_to_remove: string;
+    variant: IVariant;
+    variant_id: number;
+    vendor: string;
+}
+//# sourceMappingURL=lineItem.d.ts.map

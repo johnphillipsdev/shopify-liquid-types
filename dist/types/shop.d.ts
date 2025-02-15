@@ -1,0 +1,41 @@
+import { IAddress } from "./address";
+import { IBrand } from "./brand";
+import { ICurrency } from "./currency";
+import { IMetafield } from "./metafield";
+import { IPolicy } from "./policy";
+import { IShopLocale } from "./shopLocale";
+export interface IShop {
+    accepts_gift_cards: boolean;
+    address: IAddress;
+    brand: IBrand;
+    collections_count: number;
+    currency: string;
+    customer_accounts_enabled: boolean;
+    customer_accounts_optional: boolean;
+    description: string;
+    domain: string;
+    email: string;
+    enabled_currencies: ICurrency[];
+    enabled_payment_types: string[];
+    id: string;
+    metafields: IMetafield[];
+    money_format: ICurrency;
+    money_with_currency_format: ICurrency;
+    name: string;
+    password_message: string;
+    permanent_domain: string;
+    phone: string;
+    policies: IPolicy[];
+    privacy_policy: IPolicy;
+    products_count: number;
+    published_locales: IShopLocale[];
+    refund_policy: IPolicy;
+    secure_url: string;
+    shipping_policy: IPolicy;
+    subscription_policy: IPolicy;
+    terms_of_service: IPolicy;
+    types: string[];
+    url: string;
+    vendors: string[];
+}
+//# sourceMappingURL=shop.d.ts.map

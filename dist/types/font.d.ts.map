@@ -1,0 +1,1 @@
+{"version":3,"file":"font.d.ts","sourceRoot":"","sources":["../../src/types/font.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,KAAK;IACpB,cAAc,EAAE,MAAM,CAAC;IACvB,iBAAiB,EAAE,MAAM,CAAC;IAC1B,MAAM,EAAE,MAAM,CAAC;IACf,KAAK,EAAE,MAAM,CAAC;IACd,MAAM,CAAC,EAAE,OAAO,CAAC;IACjB,QAAQ,EAAE,KAAK,EAAE,CAAC;IAClB,MAAM,EAAE,MAAM,CAAC;CAChB"}
