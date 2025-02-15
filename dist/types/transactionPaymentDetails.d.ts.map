@@ -1,1 +1,0 @@
-{"version":3,"file":"transactionPaymentDetails.d.ts","sourceRoot":"","sources":["../../src/types/transactionPaymentDetails.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,YAAY,CAAC;AAEvC,MAAM,WAAW,0BAA0B;IACzC,mBAAmB,EAAE,MAAM,CAAC;IAC5B,4BAA4B,EAAE,MAAM,CAAC;IACrC,kBAAkB,EAAE,MAAM,CAAC;IAC3B,SAAS,EAAE,SAAS,CAAC;CACtB"}

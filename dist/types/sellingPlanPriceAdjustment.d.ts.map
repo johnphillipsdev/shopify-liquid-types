@@ -1,1 +1,0 @@
-{"version":3,"file":"sellingPlanPriceAdjustment.d.ts","sourceRoot":"","sources":["../../src/types/sellingPlanPriceAdjustment.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,2BAA2B;IAC1C,WAAW,EAAE,MAAM,CAAC;IACpB,QAAQ,EAAE,MAAM,CAAC;IACjB,KAAK,EAAE,MAAM,CAAC;IACd,UAAU,EAAE,OAAO,GAAG,YAAY,GAAG,OAAO,CAAC;CAC9C"}

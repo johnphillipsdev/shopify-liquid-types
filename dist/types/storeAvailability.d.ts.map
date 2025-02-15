@@ -1,1 +1,0 @@
-{"version":3,"file":"storeAvailability.d.ts","sourceRoot":"","sources":["../../src/types/storeAvailability.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,YAAY,CAAC;AAEvC,MAAM,WAAW,kBAAkB;IACjC,SAAS,EAAE,OAAO,CAAC;IACnB,QAAQ,EAAE,SAAS,CAAC;IACpB,eAAe,EAAE,OAAO,CAAC;IACzB,YAAY,EAAE,MAAM,CAAC;CACtB"}

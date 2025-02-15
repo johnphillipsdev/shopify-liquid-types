@@ -1,1 +1,0 @@
-{"version":3,"file":"swatch.d.ts","sourceRoot":"","sources":["../../src/types/swatch.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,SAAS,CAAC;AACjC,OAAO,EAAE,MAAM,EAAE,MAAM,SAAS,CAAC;AAEjC,MAAM,WAAW,OAAO;IACtB,KAAK,EAAE,MAAM,CAAC;IACd,KAAK,EAAE,MAAM,CAAC;CACf"}

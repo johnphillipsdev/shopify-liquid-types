@@ -1,1 +1,0 @@
-{"version":3,"file":"forloop.d.ts","sourceRoot":"","sources":["../../src/types/forloop.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,QAAQ;IACvB,KAAK,EAAE,OAAO,CAAC;IACf,KAAK,EAAE,MAAM,CAAC;IACd,MAAM,EAAE,MAAM,CAAC;IACf,IAAI,EAAE,OAAO,CAAC;IACd,MAAM,EAAE,MAAM,CAAC;IACf,UAAU,EAAE,QAAQ,CAAC;IACrB,MAAM,EAAE,MAAM,CAAC;IACf,OAAO,EAAE,MAAM,CAAC;CACjB"}
