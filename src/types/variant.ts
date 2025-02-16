@@ -1,7 +1,6 @@
 import { IImage } from "./image";
 import { IMedia } from "./media";
 import { IProduct } from "./product";
-import { IProductOptionValue } from "./productOptionValue";
 import { IQuantityPriceBreak } from "./quantityPriceBreak";
 import { IQuantityRule } from "./quantityRule";
 import { ISellingPlanAllocation } from "./sellingPlanAllocation";
@@ -23,7 +22,7 @@ export interface IVariant {
   matched: boolean;
   metafields: any;
   next_incoming_date: string;
-  options: IProductOptionValue[];
+  options: string[];
   price: number;
   product: IProduct;
   quantity_price_breaks: IQuantityPriceBreak[];
