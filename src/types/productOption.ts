@@ -4,5 +4,5 @@ export interface IProductOption {
   name: string;
   position: number;
   selected_value: string;
-  values: IProductOptionValue[];
+  values: string[];
 }
