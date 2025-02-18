@@ -1,16 +1,21 @@
 {
   "name": "shopify-liquid-types",
-  "version": "2.2.0",
+  "version": "1.0.0",
   "description": "TypeScript definitions for Shopify Liquid objects",
-  "main": "dist/index.js",
+  "main": "dist/bundle.js",
   "types": "dist/index.d.ts",
-  "repository": "https://github.com/johnphillipsdev/shopify-liquid-types",
-  "license": "MIT",
   "scripts": {
-    "build": "vite build"
+    "build": "webpack"
   },
+  "files": [
+    "dist"
+  ],
+  "author": "John Phillips",
+  "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.7.3",
-    "vite": "^6.1.0"
+    "ts-loader": "^8.4.0",
+    "typescript": "^4.9.5",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^4.10.0"
   }
 }
