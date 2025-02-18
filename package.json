@@ -1,6 +1,6 @@
 {
   "name": "shopify-liquid-types",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "TypeScript definitions for Shopify Liquid objects",
   "main": "dist/bundle.js",
   "types": "dist/index.d.ts",
