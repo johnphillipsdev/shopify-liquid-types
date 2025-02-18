@@ -29,6 +29,7 @@ export interface ILineItem {
   original_price: number;
   product: IProduct;
   product_id: number;
+  product_name: string;
   properties: any;
   quantity: number;
   requires_shipping: boolean;
